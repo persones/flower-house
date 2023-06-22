@@ -1,0 +1,10 @@
+{
+  "thermostats": [
+    {
+      "name": "Living Room"     
+    }, 
+    {
+      "name": "Bedrooms"
+    }
+  ]
+}
